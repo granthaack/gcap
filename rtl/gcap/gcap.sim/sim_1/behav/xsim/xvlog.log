@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ghaack/projects/gcap/rtl/gcap/gcap.srcs/sources_1/new/negedge_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module negedge_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ghaack/projects/gcap/rtl/gcap/gcap.srcs/sources_1/new/posedge_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module posedge_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ghaack/projects/gcap/rtl/gcap/gcap.srcs/sim_1/new/tb_edge_detectors.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_edge_detectors

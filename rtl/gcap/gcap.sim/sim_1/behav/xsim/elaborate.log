@@ -1,0 +1,15 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/ghaack/.local/bin/Vivado/2019.2/bin/unwrapped/lnx64.o/xelab -wto a5e25f0dfa0747ffa1d4c2d5b0b7bddf --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_edge_detectors_behav xil_defaultlib.tb_edge_detectors xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.posedge_detector
+Compiling module xil_defaultlib.negedge_detector
+Compiling module xil_defaultlib.tb_edge_detectors
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_edge_detectors_behav
